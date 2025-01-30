@@ -41,3 +41,14 @@ https://www.youtube.com/watch?v=OLsNj0thvf0
                *Написание собственного кода 
 
 https://www.youtube.com/watch?v=ZgUKwd3aBO8
+
+
+
+
+
+Магия превращение новичка Python в профессионального разработчика. Рассказываю сам процесс.
+
+Вы тоже сможете, просто наберитесь терпения и все точно получится.
+
+
+https://www.youtube.com/watch?v=yGcJjQ6jYiQ
