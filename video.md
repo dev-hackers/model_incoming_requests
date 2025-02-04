@@ -42,6 +42,10 @@ https://www.youtube.com/watch?v=OLsNj0thvf0
 
 https://www.youtube.com/watch?v=ZgUKwd3aBO8
 
+Как стать Python-разработчиком с нуля? Эффективная система роста.
+
+https://www.youtube.com/watch?v=ffdA2YwggIU
+
 
 
 
